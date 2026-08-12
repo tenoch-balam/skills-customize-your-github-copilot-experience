@@ -65,6 +65,20 @@
       "description": "Create a RESTful API using FastAPI with endpoints, data validation, and error handling",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-08-19"
+    },
+    {
+      "id": "sqlite-database-design",
+      "title": "SQLite Database Design and Advanced Queries",
+      "description": "Design a normalized relational database and write complex SQL queries with joins, aggregations, and transactions",
+      "path": "assignments/sqlite-database-design",
+      "dueDate": "2026-08-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
