@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a RESTful API using FastAPI with endpoints, data validation, and error handling",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-08-19"
     }
   ]
 }
